@@ -1,0 +1,6 @@
+spacy==3.7.5
+pandas
+pymupdf
+fitz
+spacy-transformers
+google-generativeai
